@@ -12,4 +12,4 @@ In particular, yatot adds:
 
 
 ## Where is yatot?
-Ah, I don't know. Can you tell me?
+Ah, I don't know. Can you tell me? If you're a better developer than me, you might go and create it :-D
